@@ -1,0 +1,22 @@
+{
+  "name": "a-event-format-fn",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Event Format Fn",
+  "keywords": [
+    "a",
+    "event",
+    "format",
+    "fn"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-event-format-fn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-format-fn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-format-fn/issues"
+  }
+}
